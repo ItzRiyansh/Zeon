@@ -31,6 +31,6 @@ Content Here.
 
 ---
 
-*Make sure to read [Privacy Policy]() too.* 
+*Make sure to read [Privacy Policy](https://github.com/ItzRiyansh/Zeon/blob/main/Privacy%20Policy.md) too.* 
 
 ##### Last Update: 7th April, 2022.
